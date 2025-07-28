@@ -16,4 +16,4 @@ temp*.blend
 Thumbs.db
 
 # Ignore the compiled add-on zip file
-Composer4U/Composer4U.zip
+Blender-Composer4U-Addon/Composer4U.zip
