@@ -1,0 +1,16 @@
+# Python-specific ignores
+*.pyc
+__pycache__/
+.Python
+venv/            
+
+# Blender-specific ignores
+*.blend1
+*.blend2
+*.autosave
+*.crash.txt
+temp*.blend
+
+# Operating System specific ignores
+.DS_Store         
+Thumbs.db        
