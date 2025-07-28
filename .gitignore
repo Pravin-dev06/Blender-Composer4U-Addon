@@ -13,4 +13,7 @@ temp*.blend
 
 # Operating System specific ignores
 .DS_Store         
-Thumbs.db        
+Thumbs.db
+
+# Ignore the compiled add-on zip file
+Composer4U/Composer4U.zip
