@@ -36,7 +36,7 @@
 
 This is a simple guide to quickly install and use the add-on in Blender.
 
-Watch the full installation guide video here: [Installation Guide Video](YOUTUBE_LINK_HERE)
+Watch the full installation guide video here: [Installation Guide Video](https://youtu.be/CIu1iy8Ntxg)
 
 1. On the [Composer4U GitHub repository page](https://github.com/Pravin-dev06/Blender-Composer4U-Addon), in the About section, click the Releases tab. Then, find the release titled `Composer4U v1.0.0 - Initial Stable Release` and scroll down to the "Assets" section to download the Composer4U_v1.0.0.zip file. [Alternatively, you can download it directly by clicking this link.](https://github.com/Pravin-dev06/Blender-Composer4U-Addon/releases/download/v1.0.0/Composer4U_v1.0.0.zip)
 
